@@ -1,0 +1,2 @@
+Repository with simple scripts to install Tekton pipelines, triggers and pipeline-as-code controllers on the Openshift cluster.
+Notice: you can install openshift-pipelines operator. It will be more easier way to achive this functionality.
